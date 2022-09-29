@@ -1,12 +1,8 @@
-import './App.css'
+import './App.css';
+import './HttpRequestHandling';
 
 function App() {
-
-  return (
-    <div className="App">
-      hi
-    </div>
-  )
+  return <div>Test task</div>
 }
 
-export default App
+export default App;
