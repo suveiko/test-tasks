@@ -40,7 +40,7 @@ interface Book {
   name: string;
 }
 
-export const BooksList: FC<{ books: Book[] }> = ({ books }) => {
+export const BooksList: FC<{ books: Book[] }> = ({ books }) => (
   <ul>
     {books.map(({ name, id }) => (
       <li key={id}>{name}</li>
