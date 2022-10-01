@@ -1,6 +1,6 @@
 ## Projects
 
-The project consists of fifth test tasks
+The project consists of five test tasks
 
 ## Install Project
 - Open terminal => `yarn or yarn install`
